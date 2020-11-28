@@ -1,9 +1,9 @@
 import requests
 
-
 pTrivia = {
-"amount":10,
-"type":"boolean"
+    "amount": 10,
+    "type": "boolean",
+    "category":18
 
 }
 
